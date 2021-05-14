@@ -1,1 +1,1 @@
-python run.py sample_video.mp4
+python main.py sample_video.mp4
